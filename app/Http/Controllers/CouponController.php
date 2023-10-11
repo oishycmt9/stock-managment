@@ -6,9 +6,21 @@ use Illuminate\Http\Request;
 
 class CouponController extends Controller
 {
-    public function create(){
+    public function addCoupon(){
 
     }
 
-    // public function
+    public function getCouponDetails(){
+
+    }
+
+    public function updateCoupon(){
+
+    }
+
+    public function removeCoupon(){
+
+    }
+
+    
 }
